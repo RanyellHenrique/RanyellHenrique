@@ -25,7 +25,7 @@ I'm learning at the moment **Java, Kotlin, Spring and Micronaut**
    &nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
    &nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://micronaut.io/wp-content/uploads/2020/11/MIcronautLogo_Horizontal.svg">
+  <img height="40" src="https://micronaut.io/wp-content/themes/micronaut/img/astronaut.png">
    &nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    &nbsp;&nbsp;&nbsp;
