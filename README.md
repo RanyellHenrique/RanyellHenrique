@@ -24,7 +24,7 @@ I'm learning at the moment **Java, Kotlin, Spring, Micronaut and GRPC**
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
    &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-   &nbsp;&nbsp;&
+   &nbsp;&nbsp;
   <img height="40" src="https://micronaut.io/wp-content/themes/micronaut/img/astronaut.png">
    &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
